@@ -14,4 +14,8 @@ If you use data provided in this repository in your own work please link back to
 
 - **Dynamic Molecular Epidemiology Reveals Lineage-Associated Single-Nucleotide Variants That Alter RNA Structure in Chikungunya Virus**
  _Thomas Spicher, Markus Delitz, Adriano de Bernardi Schneider, and Michael T. Wolfinger_
- Genes, 12(2):239, Feb 2021. PMCID: PMC7914560
+ Genes, 12(2):239, Feb 2021. DOI:[10.3390/genes12020239](https://dx.doi.org/10.3390%2Fgenes12020239) PMCID:[PMC7914560](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7914560/)
+
+ - **Updated Phylogeny of Chikungunya Virus Suggests Lineage-Specific RNA Architecture**
+  _Adriano de Bernardi Schneider, Roman Ochsenreiter, Reilly Hostager, Ivo L. Hofacker, Daniel Janies, and Michael T. Wolfinger_
+  Viruses, 11:798, Aug 2019. DOI:[10.3390/v11090798](https://dx.doi.org/10.3390%2Fv11090798) PMCID:[PMC6784101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6784101/)
