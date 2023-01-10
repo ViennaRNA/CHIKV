@@ -5,8 +5,7 @@ Michael T. Wolfinger<sup>1,2</sup>
 <sub><sup>1</sup>Department of Theoretical Chemistry, University of Vienna, Vienna, Austria</sub><br/>
 <sub><sup>2</sup>Research Group Bioinformatics and Computational Biology, Faculty of Computer Science, University of Vienna, Vienna, Austria</sub><br/>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7516690.svg)](https://doi.org/10.5281/zenodo.7516690)
-
+[![DOI](https://zenodo.org/badge/240604243.svg)](https://zenodo.org/badge/latestdoi/240604243)
 
 This repository contains a [nextstrain](https://nextstrain.org) community build of Chikungunya virus (CHIKV) that is accessible [here](https://nextstrain.org/community/ViennaRNA/CHIKV). Alternatively, you can drag & drop the [CHIKV.json](auspice/CHIKV.json) file directly at [auspice.us](https://auspice.us).
 
