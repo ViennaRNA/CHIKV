@@ -11,6 +11,21 @@ This repository contains a [nextstrain](https://nextstrain.org) community build 
 
 Data in this community build rely on publicly available CHIKV genomes from NCBI Genbank. New releases are published on an irregular basis when a reasonable amount of novel sequences are available.
 
+## Documentation
+
+This repository includes comprehensive documentation to help you understand and work with the CHIKV build:
+
+- **[BUILD.md](BUILD.md)** - Complete guide to the build process, dependencies, and how to reproduce the analysis
+- **[DATA.md](DATA.md)** - Documentation of data files, formats, and how to access sequence data
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Guidelines for contributing to the project and getting help
+
+**Quick links:**
+- [How to reproduce the analysis](BUILD.md#reproducing-the-analysis)
+- [Dependencies and installation](BUILD.md#dependencies)
+- [Data sources and formats](DATA.md#data-sources)
+- [How to contribute](CONTRIBUTING.md)
+- [Nextstrain documentation](https://docs.nextstrain.org/)
+
 ## Citation
 If you use data provided in this repository in your own work please link back to this site and cite the following publications - Thank you!
 
